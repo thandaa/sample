@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE6A12C-2055-4378-98DD-20F0C197B90B}|Webfront\\Webfront.csproj|d:\\project\\252024\\web project\\schoolmanagement - copy (2)\\webfront\\webfront\\userinterface\\dashboard\\registerteacher\\teacherdetail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BBE6A12C-2055-4378-98DD-20F0C197B90B}|Webfront\\Webfront.csproj|solutionrelative:webfront\\userinterface\\dashboard\\registerteacher\\teacherdetail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE6A12C-2055-4378-98DD-20F0C197B90B}|Webfront\\Webfront.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webfront\\userinterface\\dashboard\\registerteacher\\teacherlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BBE6A12C-2055-4378-98DD-20F0C197B90B}|Webfront\\Webfront.csproj|solutionrelative:webfront\\userinterface\\dashboard\\registerteacher\\teacherlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE6A12C-2055-4378-98DD-20F0C197B90B}|Webfront\\Webfront.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webfront\\userinterface\\dashboard\\registerteacher\\teacherdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BBE6A12C-2055-4378-98DD-20F0C197B90B}|Webfront\\Webfront.csproj|solutionrelative:webfront\\userinterface\\dashboard\\registerteacher\\teacherdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE6A12C-2055-4378-98DD-20F0C197B90B}|Webfront\\Webfront.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webfront\\userinterface\\dashboard\\registerteacher\\teacherlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BBE6A12C-2055-4378-98DD-20F0C197B90B}|Webfront\\Webfront.csproj|solutionrelative:webfront\\userinterface\\dashboard\\registerteacher\\teacherlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webappbackend\\webservice\\webserviceteacher.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|solutionrelative:webappbackend\\webservice\\webserviceteacher.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webappbackend\\webservice\\webserviceposition.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|solutionrelative:webappbackend\\webservice\\webserviceposition.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webappbackend\\webservice\\webservicecity.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|solutionrelative:webappbackend\\webservice\\webservicecity.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE6A12C-2055-4378-98DD-20F0C197B90B}|Webfront\\Webfront.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webfront\\js\\common.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BBE6A12C-2055-4378-98DD-20F0C197B90B}|Webfront\\Webfront.csproj|solutionrelative:webfront\\js\\common.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webappbackend\\linq\\linq.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|solutionrelative:webappbackend\\linq\\linq.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webappbackend\\controller\\conteollercity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|solutionrelative:webappbackend\\controller\\conteollercity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webappbackend\\linq\\linq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|solutionrelative:webappbackend\\linq\\linq.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webappbackend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|solutionrelative:webappbackend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webappbackend\\controller\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|solutionrelative:webappbackend\\controller\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webappbackend\\controller\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19647348-942E-4847-8047-9CA48FF0FDF3}|WebAppBackend\\WebAppBackend.csproj|solutionrelative:webappbackend\\controller\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE6A12C-2055-4378-98DD-20F0C197B90B}|Webfront\\Webfront.csproj|D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\webfront\\userinterface\\dashboard\\adminmaster\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{BBE6A12C-2055-4378-98DD-20F0C197B90B}|Webfront\\Webfront.csproj|solutionrelative:webfront\\userinterface\\dashboard\\adminmaster\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherDetail.aspx",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherDetail.aspx",
+              "RelativeDocumentMoniker": "Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherDetail.aspx",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherDetail.aspx",
+              "RelativeToolTip": "Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-01T05:36:26.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\Web.config",
+              "RelativeDocumentMoniker": "WebAppBackend\\Web.config",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\Web.config",
+              "RelativeToolTip": "WebAppBackend\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-01T05:04:58.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LINQ.designer.cs",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\Linq\\LINQ.designer.cs",
+              "RelativeDocumentMoniker": "WebAppBackend\\Linq\\LINQ.designer.cs",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\Linq\\LINQ.designer.cs",
+              "RelativeToolTip": "WebAppBackend\\Linq\\LINQ.designer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwDMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:04:23.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LINQ.dbml",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\Linq\\LINQ.dbml",
+              "RelativeDocumentMoniker": "WebAppBackend\\Linq\\LINQ.dbml",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\Linq\\LINQ.dbml",
+              "RelativeToolTip": "WebAppBackend\\Linq\\LINQ.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-06-01T05:02:35.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\Controller\\PositionController.cs",
+              "RelativeDocumentMoniker": "WebAppBackend\\Controller\\PositionController.cs",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\Controller\\PositionController.cs",
+              "RelativeToolTip": "WebAppBackend\\Controller\\PositionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:01:35.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConteollerCity.cs",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\Controller\\ConteollerCity.cs",
+              "RelativeDocumentMoniker": "WebAppBackend\\Controller\\ConteollerCity.cs",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\Controller\\ConteollerCity.cs",
+              "RelativeToolTip": "WebAppBackend\\Controller\\ConteollerCity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:01:24.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebServiceCity.asmx.cs",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\WebService\\WebServiceCity.asmx.cs",
+              "RelativeDocumentMoniker": "WebAppBackend\\WebService\\WebServiceCity.asmx.cs",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\WebService\\WebServiceCity.asmx.cs",
+              "RelativeToolTip": "WebAppBackend\\WebService\\WebServiceCity.asmx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:59:27.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherDetail.js",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherDetail.js",
+              "RelativeDocumentMoniker": "Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherDetail.js",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherDetail.js",
+              "RelativeToolTip": "Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherDetail.js",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAgwH8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-01T04:05:56.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminMaster.Master",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\Webfront\\UserInterface\\Dashboard\\AdminMaster\\AdminMaster.Master",
+              "RelativeDocumentMoniker": "Webfront\\UserInterface\\Dashboard\\AdminMaster\\AdminMaster.Master",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\Webfront\\UserInterface\\Dashboard\\AdminMaster\\AdminMaster.Master",
+              "RelativeToolTip": "Webfront\\UserInterface\\Dashboard\\AdminMaster\\AdminMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-01T03:51:30.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherList.aspx",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherList.aspx",
+              "RelativeDocumentMoniker": "Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherList.aspx",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherList.aspx",
+              "RelativeToolTip": "Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-01T03:16:07.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebServiceTeacher.asmx.cs",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\WebService\\WebServiceTeacher.asmx.cs",
+              "RelativeDocumentMoniker": "WebAppBackend\\WebService\\WebServiceTeacher.asmx.cs",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\WebService\\WebServiceTeacher.asmx.cs",
+              "RelativeToolTip": "WebAppBackend\\WebService\\WebServiceTeacher.asmx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwBgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:11:25.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\Controller\\TeacherController.cs",
+              "RelativeDocumentMoniker": "WebAppBackend\\Controller\\TeacherController.cs",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\Controller\\TeacherController.cs",
+              "RelativeToolTip": "WebAppBackend\\Controller\\TeacherController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAG8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:08:15.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "common.js",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\Webfront\\JS\\common.js",
+              "RelativeDocumentMoniker": "Webfront\\JS\\common.js",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\Webfront\\JS\\common.js",
+              "RelativeToolTip": "Webfront\\JS\\common.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-31T12:48:28.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebServicePosition.asmx.cs",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\WebService\\WebServicePosition.asmx.cs",
+              "RelativeDocumentMoniker": "WebAppBackend\\WebService\\WebServicePosition.asmx.cs",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\WebAppBackend\\WebService\\WebServicePosition.asmx.cs",
+              "RelativeToolTip": "WebAppBackend\\WebService\\WebServicePosition.asmx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:28:12.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherList.js",
+              "DocumentMoniker": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherList.js",
+              "RelativeDocumentMoniker": "Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherList.js",
+              "ToolTip": "D:\\project\\252024\\Web Project\\SchoolManagement - Copy (2)\\Webfront\\Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherList.js",
+              "RelativeToolTip": "Webfront\\UserInterface\\Dashboard\\RegisterTeacher\\TeacherList.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-01T03:17:28.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
